@@ -299,3 +299,5 @@ while True:
 * Profit can be increased.
 ## Result:
 Thus, a chat bot has been successfully created using neural networks.
+<h2 align="right">Project By:</h2
+<h3 align="right">Nithishkumar P - 212221230070</h3>
