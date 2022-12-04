@@ -301,3 +301,5 @@ while True:
 Thus, a chat bot has been successfully created using neural networks.
 <h2 align="right">Project By:</h2>
 <h3 align="right">Nithishkumar P - 212221230070</h3>
+<h3 align="right">Senthil Kumar S - 212221230091</h3>
+<h3 align="right">Shankar S S - 212221240052</h3>
