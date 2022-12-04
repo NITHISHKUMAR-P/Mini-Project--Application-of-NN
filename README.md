@@ -1,7 +1,6 @@
 # Mini-Project--Application-of-NN
 
-## Project Title:
-### Chat BOT
+## Project Title: Chat BOT
 ## Project Description:
 * This bot is created by using neural networks for the purpose of selling products. 
 * This bot take orders from the user and inform the details to the seller.
@@ -294,4 +293,9 @@ while True:
 ![](./2.PNG)
 ![](./3.PNG)
 ## Advantage :
+* This bot is easy to use.
+* It will reduce the burden of seller.
+* The response in much faster.
+* Profit can be increased.
 ## Result:
+Thus, a chat bot has been successfully created using neural networks.
