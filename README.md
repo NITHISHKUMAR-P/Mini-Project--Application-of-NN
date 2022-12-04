@@ -289,7 +289,7 @@ while True:
                 print(f'{bot_name}: I do not understand...')
 ```
 ## Output:
-![](./1.PNG)
+![](./4.PNG)
 ![](./2.PNG)
 ![](./3.PNG)
 ## Advantage :
