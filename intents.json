@@ -1,0 +1,77 @@
+{
+    "intents": [{
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day"
+            ],
+            "responses": [
+                "Hey :-)",
+                "Hello, thanks for visiting",
+                "Hi there, what can I do for you?",
+                "Hi there, how can I help?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you"],
+            "responses": ["Happy to help", "Anytime", "See ya!"]
+        },
+        {
+            "tag": "items",
+            "patterns": ["What kinds of items are there?",
+                "Which item do you have?",
+                "What do you sell?"
+            ],
+            "responses": ["We sell coffee and tea",
+                "We have coffee and tea"
+            ]
+        },
+        {
+            "tag": "payments",
+            "patterns": ["Do you take credit cards?",
+                "Can I pay with Paypal?",
+                "Is COD available?"
+            ],
+            "responses": [
+                "We accept VISA, Mastercard and Paypal",
+                "We accept most major credit cards, and Paypal"
+            ]
+        },
+        {
+            "tag": "delivery",
+            "patterns": [
+                "How long does deliver take?",
+                "When can i get my hands on the product?",
+                "How long does shipping take?"
+            ],
+            "responses": [
+                "Delivery takes 2-4 days",
+                "About 2-4 days be patient"
+            ]
+        },
+        {
+            "tag": "funny",
+            "patterns": [
+                "Tell me about you",
+                "Do you know a joke?"
+            ],
+            "responses": [
+                "You are a joke!!"
+            ]
+        }
+    ]
+}
